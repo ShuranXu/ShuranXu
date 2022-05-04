@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a tech enthusiast who loves a variety of technologies, especially embedded systems and IoT. I am curently a full-time graduate student at University of Colorado Boulder specializing in Embedded System Engineering, and determine to work as a embedded system engineer as my career. While majority of the repositories are private as they are directly related to the coursework, some of course projects are public to share with others !
+
