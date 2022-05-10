@@ -21,7 +21,10 @@ Here are some ideas to get you started:
   <div id="badges">
     <a href="https://www.linkedin.com/in/aarsonxushuran/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://dev.to/shuranxu/">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DevIO Badge"/>
   </div>
+   
   <img src="https://komarev.com/ghpvc/?username=ShuranXu&style=flat-square&color=blue" alt=""/>
   <h1>
     Hi there
