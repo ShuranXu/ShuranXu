@@ -43,7 +43,7 @@ I am a tech enthusiast :computer: !
 
 :seedling: Exploring Technical Content Writing. </br>
 
-:zap:In my free time, I build DIY side projects and read tech articles. </br>
+:zap:In my free time, I build DIY side projects and write tech articles. </br>
 
 :mailbox: xushuran2012@gmail.com </br>
 
