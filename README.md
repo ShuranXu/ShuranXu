@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   
 I am a tech enthusiast :computer: ! 
   
-:telescope: I’m curently a senior software engineer working at Microchip Technology Inc where I contribute to complex digital system design in HLS C++. </br>
+:telescope: I’m curently a senior software engineer working at Microchip Technology Inc where I design complex digital systems in HLS C++. </br>
 
 :warning: Majority of the repositories are private as they are directly related to the coursework, but some of course projects are public. </br>
 
